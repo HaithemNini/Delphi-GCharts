@@ -6,8 +6,6 @@ Delphi-GCharts is a Delphi library of components to generate charts in uniGUI Fr
 
 ![Overview](./img/Overview.png)
 
-
-
 Currently it supports the following Google Chart classes:
 
 - [Annotation](https://developers.google.com/chart/interactive/docs/gallery/annotationchart)
